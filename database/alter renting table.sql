@@ -1,0 +1,2 @@
+ALTER TABLE Renting
+ADD CONSTRAINT RoomIdUnique UNIQUE(RoomID);

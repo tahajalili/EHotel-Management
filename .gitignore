@@ -1,0 +1,98 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# React build output
+/build/
+/dist/
+/.next/
+
+# Testing
+/coverage/
+
+# C# / .NET
+bin/
+obj/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+orleans.codegen.cs
+/packages/
+riderModule.iml
+/_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+.vs/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+appsettings.Development.json
+appsettings.Production.json
+appsettings.*.json
+!appsettings.json
+
+# Database
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.jfm
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# IDE and editor files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.iml
+.vs/
+.project
+.classpath
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# React specific
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+.env.development.local
+.env.test.local
+.env.production.local
+build/
+coverage/
+
+# Hotel-specific temp files
+/uploads/
+/reports/
+/temp/
+/invoices/
