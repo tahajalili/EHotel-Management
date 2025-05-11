@@ -1,6 +1,6 @@
-# E-Hotel Management System
+# E-Hotel Management System - University of Ottawa Database I final project
 
-A hotel management web application built with React frontend, C# backend, and SQL database.
+A hotel management web application built with React frontend, C# backend, and SQL database. 
 
 ## Technology Stack
 
